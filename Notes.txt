@@ -1,0 +1,39 @@
+Servie quotas:
+name, default, adjustable
+Job queue bandwidth ration, Each supported Region: 0.9, Yes
+Maximum audio file length, Each supported Region: 14,400seconds or 4 hours, No
+
+---
+Amazon Transcribe
+-pay-as-you-go service.
+-pricing is based on seconds of transcribed audio.
+-billed on a monthly basis.
+-minimum charge for trascription request is set to 15 seconds
+-you are billed with per second increments.
+
+
+---
+Amazon Transcribe
+-is a tool that can automatically turn spoken words into written text.
+-can be used by itself to translate audio files.
+-can be integrated into other application.
+-uses advanced machine learning technique.
+
+---
+Amazon Transcribe
+-offers various features to make its transcription service more tailored to your needs.
+-you have the ability to filter content, ensuring customer privacy or using language appropriate for your audience
+-the service also handle multi-channel audio, allowing you to analyze content with multiple audio sources
+-you can separate the speech of individual speakers, providing more granular control over the transcription process.
+
+---
+Amazon Transcribe
+Two options for transcribing content using Amazon Transcribe:
+* real-time transcription - where it converts spoken words into text as they are happening(streaming).
+* transcribing media files that are stored in an Amazon S3 bucket(batch processing).
+
+---
+Amazon Transcribe
+-is compliant with AWS's Health Insurance Portability and Accounting Act(HIPAA) standards and offers a Business Associate Agreement(BAA).
+-for customers covered by a BAA, it is madatory to encrypt all Protected Health Information (PHI) both when stored (at rest) and when being transmitted (in transit).
+-the servie includes automatic identification off PHI without any extra cost, and this feature is available in all regions where Amazon Transcribe is operational.
